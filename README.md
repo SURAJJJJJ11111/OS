@@ -28,7 +28,7 @@ python --version  # Check Python installation
 ### Clone the Repository
 ```sh
 git clone https://github.com/SURAJJJJJ11111/OS.git
-cd Dynamic-Memory-Visualizer
+cd OS
 ```
 
 ### Install Dependencies

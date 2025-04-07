@@ -21,6 +21,7 @@ This project is a **Dynamic Memory Management Visualizer**, designed to simulate
 ### Prerequisites
 Ensure you have Python installed on your system.
 
+
 ```sh
 python --version  # Check Python installation
 ```
